@@ -48,4 +48,15 @@ https://huggingface.co/datasets/dannyXSC/HumanAndRobot
 
 ## Citation
 
-Citation information will be added after the project is finalized.
+If you use this dataset, please cite:
+
+```bibtex
+@inproceedings{yu2026hoc2r,
+  title     = {HOC2R: Hand-Object Contact Trajectories for Human-to-Robot Motion Transfer},
+  author    = {Yu, Hongkun and L{\'o}pez, Francisco M. and Cruz, Francisco},
+  booktitle = {Proceedings of the Australasian Conference on Robotics and Automation},
+  year      = {2026}
+}
+```
+
+The official paper link will be added after publication.
