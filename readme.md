@@ -59,4 +59,4 @@ If you use this dataset, please cite:
 }
 ```
 
-The official paper link will be added after publication.
+[Paper on arXiv](https://arxiv.org/abs/2611.08920)
